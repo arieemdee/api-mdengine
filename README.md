@@ -1,6 +1,7 @@
 # api-mdengine
 - Format Center WS 
 =>MMC : 
+      - Lupa cara daftarnya
 =>MMB : http://<ip>:<port>/ws/trx/?kdrs=<username>&password=<password>&kdproduk=KV100&tujuan=<tujuan>
 
 - Format Center API
