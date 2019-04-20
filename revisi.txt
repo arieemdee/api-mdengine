@@ -1,0 +1,11 @@
+-Add option resource MMC xmpp 
+-Fixed Expired Pesan MMC XMPP
+-Tunning MMB
+-OFF timer antrian MMB 0:0:0:0
+-MMC XML IP Receiver Lintas Software 
+-View Piutang HOme Reseller
+-Hak akses bayar piutang
+-Fixed Tp saldo Admin
+-Fixed Boster MMB xmpp
+
+-hak akses laba rugi
