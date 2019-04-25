@@ -1,3 +1,7 @@
+* Next Up now *
+- Upgrade net conector ke versi terbaru (v.8.15)
+
+* MARET 2019 *
 -Add option resource MMC xmpp 
 -Fixed Expired Pesan MMC XMPP
 -Tunning MMB
