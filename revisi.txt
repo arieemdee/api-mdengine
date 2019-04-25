@@ -2,6 +2,7 @@
 - include <trxid> mmb
 - include <trxid> masih dalam proses
 - Upgrade net conector ke versi terbaru (v.8.15)
+- fixed karakter urlencode for sms web
 
 * MARET 2019 *
 -Add option resource MMC xmpp 
