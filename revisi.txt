@@ -1,4 +1,6 @@
 * Next Up now *
+- include <trxid> mmb
+- include <trxid> masih dalam proses
 - Upgrade net conector ke versi terbaru (v.8.15)
 
 * MARET 2019 *
