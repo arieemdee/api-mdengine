@@ -1,6 +1,11 @@
-* Next Up now *
+* APRIL R16 2019 *
+- Upgrade net conector ke versi terbaru (v.8.16)
+- Upgrade chromedriver v.74
+- Perbaikan script MMC.dll MMB.dll
+
+* APRIL R13 2019 *
 - include <trxid> mmb
-- include <trxid> masih dalam proses
+- include <trxid> MMC XML
 - Upgrade net conector ke versi terbaru (v.8.15)
 - fixed karakter urlencode for sms web
 - insert SN tp saldo via ws/api
