@@ -1,7 +1,7 @@
 #WS Parse
 MMC : cara daftarnya 192.168.1.12ws@xml
     : URL Receiver = http://192.168.1.12/ws/report/?
-MMB : http://<ip>:<port>/ws/trx/?kdrs=<username>&password=<password>&kdproduk=KV100&tujuan=<tujuan>
+MMB : http://<ip>:<port>/ws/trx/?kdrs=<username>&password=<password>&kdproduk=KV100&tujuan=<tujuan>&trxid=<trxid>
     : Cek Saldo = <ip>:<port>/ws/trx/?kdrs=rs001
 
 #API Parse
