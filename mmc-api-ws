@@ -7,5 +7,5 @@ MMB : http://<ip>:<port>/ws/trx/?kdrs=<username>&password=<password>&kdproduk=KV
 #API Parse
 MMC : - Create Username : -user@xml ,lintas software usernomd@xml 
                           -192.100.23.92@xml <- untuk yang lock ip blm jadi
-MMB : <ip>:<port>/api/trx/index/91/<username>/HX25/<tujuan>/<password>
+MMB : <ip>:<port>/api/trx/index/91/<username>/HX25/<tujuan>/<password>/<trxid>
 
