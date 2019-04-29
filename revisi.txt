@@ -1,4 +1,6 @@
 DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
+* APRIL R17 2019 *
+- Tuning script MMC
 
 * APRIL R16 2019 *
 - Upgrade net conector ke versi terbaru (v.8.16)
