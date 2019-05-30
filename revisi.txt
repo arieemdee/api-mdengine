@@ -3,6 +3,7 @@ DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
 - Fixed Whatsapp cange class new
 - Tuning automasi selenium webdriver
 - Ready MD Engine Trial Version
+- Fixed Auto Refresh web digipos & whatsapp
 
 * APRIL R17 2019 *
 - Tuning script MMC
