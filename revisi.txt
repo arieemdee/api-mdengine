@@ -1,4 +1,7 @@
 DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
+* MEI R7 2019
+- Cek Missing data trx datetime sama
+
 * MEI R4 2019
 - Fixed Whatsapp cange class new
 - Tuning automasi selenium webdriver
