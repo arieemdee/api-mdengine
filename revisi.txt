@@ -1,6 +1,6 @@
 DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
 * JUNI R15 2019
-- TIMER OFFLINE PRODUK TERTENTU
+- OFFLINE PRODUK dijam tertentu
 - Produk Unlock tdk dapat markup/rebat
 
 * JUNI R12 2019
