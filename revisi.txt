@@ -1,4 +1,8 @@
 DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
+* JUNI R15 2019
+- TIMER OFFLINE PRODUK TERTENTU
+- Produk Unlock tdk dapat markup/rebat
+
 * JUNI R12 2019
 - CEK HP/ID tak bertuan
 - update drivercrhome digipos dan whatsapp
