@@ -1,4 +1,12 @@
 DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
+* AGT 2019
+- Insert chart in transaksi
+- Fixed bug class whatsapp
+- Fixed bug Handle OTP Digipos
+
+* JULI 2019
+- Mirror bug Mysql Backup
+
 * JUNI R15 2019
 - OFFLINE PRODUK dijam tertentu
 - Produk Unlock tdk dapat markup/rebat
