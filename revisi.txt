@@ -1,7 +1,7 @@
 DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
 * SEP 2019
 - Revisi view Piutang dengan script C++
-- Revisi Penjuatan Munual texbox Tujuan
+- Revisi Penjualan Munual texbox Tujuan
 - Revisi FONT Textbox VOUCHER FISIK
 
 * AGT 2019
