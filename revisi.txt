@@ -3,6 +3,7 @@ DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
 - Revisi view Piutang dengan script C++
 - Revisi Penjualan Munual texbox Tujuan
 - Revisi FONT Textbox VOUCHER FISIK
+- Revisi Chart Transaksi
 
 * AGT 2019
 - Insert chart in transaksi
