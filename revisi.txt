@@ -1,5 +1,7 @@
 DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
 * SEP 2019
+#->API-159
+  - Session tidak akan expired saat aplikasi apk tidak di close
 #->R1
 - Remove Script '-' in Voucher fisik
 #->R0
