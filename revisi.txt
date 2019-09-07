@@ -1,14 +1,18 @@
 DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
 * SEP 2019
-#->API-159
+#-R2
+  - Rapikan format Tanggal Chart
+#->API-R159
   - Session tidak akan expired saat aplikasi apk tidak di close
+#->WS-R18
+  - update Loader v.10.3.8
 #->R1
-- Remove Script '-' in Voucher fisik
+  - Remove Script '-' in Voucher fisik
 #->R0
-- Revisi view Piutang dengan script C++
-- Revisi Penjualan Munual texbox Tujuan
-- Revisi FONT Textbox VOUCHER FISIK
-- Revisi Chart Transaksi
+  - Revisi view Piutang dengan script C++
+  - Revisi Penjualan Munual texbox Tujuan
+  - Revisi FONT Textbox VOUCHER FISIK
+  - Revisi Chart Transaksi
 
 * AGT 2019
 - Insert chart in transaksi
