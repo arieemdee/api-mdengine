@@ -15,54 +15,54 @@ DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
   - Revisi Chart Transaksi
 
 * AGT 2019
-- Insert chart in transaksi
-- Fixed bug class whatsapp
-- Fixed bug Handle OTP Digipos
+  - Insert chart in transaksi
+  - Fixed bug class whatsapp
+  - Fixed bug Handle OTP Digipos
 
 * JULI 2019
-- Mirror bug Mysql Backup
+  - Mirror bug Mysql Backup
 
 * JUNI R15 2019
-- OFFLINE PRODUK dijam tertentu
-- Produk Unlock tdk dapat markup/rebat
+  - OFFLINE PRODUK dijam tertentu
+  - Produk Unlock tdk dapat markup/rebat
 
 * JUNI R12 2019
-- CEK HP/ID tak bertuan
-- update drivercrhome digipos dan whatsapp
-- fixed craete akes client enable
+  - CEK HP/ID tak bertuan
+  - update drivercrhome digipos dan whatsapp
+  - fixed craete akes client enable
 
 * MEI R7 2019
-- Cek Missing data trx datetime sama
+  - Cek Missing data trx datetime sama
 
 * MEI R4 2019
-- Fixed Whatsapp cange class new
-- Tuning automasi selenium webdriver
-- Ready MD Engine Trial Version
-- Fixed Auto Refresh web digipos & whatsapp
+  - Fixed Whatsapp cange class new
+  - Tuning automasi selenium webdriver
+  - Ready MD Engine Trial Version
+  - Fixed Auto Refresh web digipos & whatsapp
 
 * APRIL R17 2019 *
-- Tuning script MMC
+  - Tuning script MMC
 
 * APRIL R16 2019 *
-- Upgrade net conector ke versi terbaru (v.8.16)
-- Upgrade chromedriver v.74
-- Perbaikan script MMC.dll MMB.dll
+  - Upgrade net conector ke versi terbaru (v.8.16)
+  - Upgrade chromedriver v.74
+  - Perbaikan script MMC.dll MMB.dll
 
 * APRIL R13 2019 *
-- include <trxid> mmb
-- include <trxid> MMC XML
-- Upgrade net conector ke versi terbaru (v.8.15)
-- fixed karakter urlencode for sms web
-- insert SN tp saldo via ws/api
+  - include <trxid> mmb
+  - include <trxid> MMC XML
+  - Upgrade net conector ke versi terbaru (v.8.15)
+  - fixed karakter urlencode for sms web
+  - insert SN tp saldo via ws/api
 
 * MARET 2019 *
--Add option resource MMC xmpp 
--Fixed Expired Pesan MMC XMPP
--Tunning MMB
--OFF timer antrian MMB 0:0:0:0
--MMC XML IP Receiver Lintas Software 
--View Piutang HOme Reseller
--Hak akses bayar piutang
--Fixed Tp saldo Admin
--Fixed Boster MMB xmpp
--hak akses laba rugi
+  -Add option resource MMC xmpp 
+  -Fixed Expired Pesan MMC XMPP
+  -Tunning MMB
+  -OFF timer antrian MMB 0:0:0:0
+  -MMC XML IP Receiver Lintas Software 
+  -View Piutang HOme Reseller
+  -Hak akses bayar piutang
+  -Fixed Tp saldo Admin
+  -Fixed Boster MMB xmpp
+  -hak akses laba rugi
