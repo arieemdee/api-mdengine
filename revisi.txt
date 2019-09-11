@@ -1,6 +1,8 @@
 DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
 * SEP 2019
 ---> apk v.2 (in the process)
+#-R4
+  - Insert View Deposit to FlowChart
 #-R3
   - Maxlengt unlimited karakter isi kode voucher fisik
 #-R2
