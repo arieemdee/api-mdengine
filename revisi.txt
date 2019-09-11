@@ -3,6 +3,8 @@ DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
 ---> apk v.2 (in the process)
 #-R4
   - Insert View Deposit to FlowChart
+  - Insert Menu Sukseskan Transaksi di Monitoring
+  - Insert Menu Tampilkan Data yang tersembunyi setelah data lebih dari 15 ekor di Monitoring
 #-R3
   - Maxlengt unlimited karakter isi kode voucher fisik
 #-R2
