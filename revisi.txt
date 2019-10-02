@@ -3,6 +3,12 @@ DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
 ---> ibank mandiri retail3 on prosess
 * OCT 2019
 #->R0
+#-API-R160
+  - update ci 3.1.11
+    [Changed CI_Log to append PHP_EOL instead of \n at the end of log messages.
+     Improved performance in Cache Library ‘redis’ driver with non-scalar variables.
+     Altered the Session Library ‘files’ driver to log error and trigger a session start failure instead of throwing an    Exception in case of unusable $config['sess_save_path'].
+     Updated the Session and Cache libraries’ ‘redis’ driver to work with phpRedis 5.]
 
 * SEP 2019
   - Geser Field Tabel Terminal ke depan Pesan (tabel In/outBox)
