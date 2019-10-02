@@ -1,29 +1,26 @@
 DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
-* SEP 2019
 ---> apk v.2 (in the process)
-#-R6
+---> ibank mandiri retail3 on prosess
+* OCT 2019
+#->R0
+
+* SEP 2019
   - Geser Field Tabel Terminal ke depan Pesan (tabel In/outBox)
-#-R5
   - Update ChromeDriver v.77
-#-R4
   - Insert View Deposit to FlowChart
   - Insert Menu Sukseskan Transaksi di Monitoring
   - Insert Menu Tampilkan Data yang tersembunyi setelah data lebih dari 15 ekor di Monitoring
-#-R3
   - Maxlengt unlimited karakter isi kode voucher fisik
-#-R2
   - Rapikan format Tanggal Chart
-#->API-R159
-  - Session tidak akan expired saat aplikasi apk tidak di close
-#->WS-R18
-  - update Loader v.10.3.8
-#->R1
   - Remove Script '-' in Voucher fisik
-#->R0
   - Revisi view Piutang dengan script C++
   - Revisi Penjualan Munual texbox Tujuan
   - Revisi FONT Textbox VOUCHER FISIK
   - Revisi Chart Transaksi
+#->API-R159
+  - Session tidak akan expired saat aplikasi apk tidak di close
+#->WS-R18
+  - update Loader v.10.3.8
 
 * AGT 2019
   - Insert chart in transaksi
