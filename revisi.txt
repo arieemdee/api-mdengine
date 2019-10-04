@@ -2,7 +2,9 @@ DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
 ---> apk v.2 (in the process)
 ---> ibank mandiri retail3 on prosess
 * OCT 2019
-#->R0
+#->R1
+  - Add separator/pembatas di insert voucher fisik
+  - Fixed bug overflow di modul voucher fisik
 #-API-R160
   - update ci 3.1.11
     [Changed CI_Log to append PHP_EOL instead of \n at the end of log messages.
