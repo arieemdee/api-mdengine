@@ -1,7 +1,9 @@
 DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
 ---> apk v.2 (in the process)
 ---> ibank mandiri retail3 on prosess
-* OCT 2019
+* OCT 
+#-R2
+  - Tunning speed open View PIUTANG
 #->R1
   - Add separator/pembatas di insert voucher fisik
   - Fixed bug overflow di modul voucher fisik
