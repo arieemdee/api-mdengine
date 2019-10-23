@@ -2,6 +2,9 @@ DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
 ---> apk v.2 (in the process)
 ---> ibank mandiri retail3 on prosess
 * OCT
+#-R7
+  - MMC bug Fixed tujuan dgn +62
+  - Fixed bug class WhatApp
 #-R6
   - Penambahan option driver odbc versi 5.3.13(stabile) vs versi 8.0.18(new)
 #-R5
