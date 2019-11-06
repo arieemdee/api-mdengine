@@ -1,25 +1,19 @@
 DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
 ---> apk v.2 (in the process)
 ---> ibank mandiri retail3 on prosess
+* NOV
+#->R1
+  - Sending SMS massal dengan target impor dari excel
 * OCT
-#-R9
   - Revisi Regex GetClass Whatsapp
-#-R8
   - Update chromodriver v.78
-#-R7
   - MMC bug Fixed tujuan dgn +62
   - Fixed bug class WhatApp
-#-R6
   - Penambahan option driver odbc versi 5.3.13(stabile) vs versi 8.0.18(new)
-#-R5
   - Upgrade driver mysql v.5.7.28 dan odbc.net v.8.0.18
-#-R4
   - Add menu ulang semua antrian di monitoring
-#-R3
   - Change versi Strawberry
-#-R2
   - Tunning speed open View PIUTANG
-#->R1
   - Add separator/pembatas di insert voucher fisik
   - Fixed bug overflow di modul voucher fisik
 #-API-R160
