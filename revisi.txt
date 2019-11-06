@@ -2,6 +2,8 @@ DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
 ---> apk v.2 (in the process)
 ---> ibank mandiri retail3 on prosess
 * NOV
+#-R2
+  - Filter nomer sama di sms broadcast (Dari import ms excel)
 #->R1
   - Sending SMS massal dengan target impor dari excel
 * OCT
