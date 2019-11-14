@@ -2,6 +2,10 @@ DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
 ---> apk v.2 (in the process)
 ---> ibank mandiri retail3 on prosess
 * NOV
+#-R4
+  - Fixed bug create db new di update terbaru
+#-R3
+  - Add link download update
 #-R2
   - Filter nomer sama di sms broadcast (Dari import ms excel)
 #->R1
