@@ -2,6 +2,8 @@ DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
 ---> apk v.2 (in the process)
 ---> ibank mandiri retail3 on prosess
 * NOV
+#-R5
+  - fixed kode produk di depan nominal saat parsing off 
 #-R4
   - Fixed bug create db new di update terbaru
 #-R3
