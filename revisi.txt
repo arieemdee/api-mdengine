@@ -1,16 +1,17 @@
 DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
 ---> apk v.2 (in the process)
 ---> ibank mandiri retail3 on prosess
+* DES
+  - Daftar reseller sendiri Auto Insert to upline custom
+  - api apk revisi
+  - digipos api
+  - tokopedia revisi
+  - wa revisi
 * NOV
-#-R5
   - fixed kode produk di depan nominal saat parsing off 
-#-R4
   - Fixed bug create db new di update terbaru
-#-R3
   - Add link download update
-#-R2
   - Filter nomer sama di sms broadcast (Dari import ms excel)
-#->R1
   - Sending SMS massal dengan target impor dari excel
 * OCT
   - Revisi Regex GetClass Whatsapp
