@@ -1,6 +1,6 @@
 DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
 ---> apk v.2 (in the process)
----> ibank mandiri retail3 on prosess
+
 * DES
   - Daftar reseller sendiri Auto Insert to upline custom
   - api apk revisi
