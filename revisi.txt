@@ -1,6 +1,11 @@
 DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
 ---> apk v.2 (in the process)
-
+2020
+* JAN
+  R1 - Fixed Script unicode md engine
+  R2 - Add option batasi trx produk di line center/mmc tertentu
+  
+2019
 * DES
   - Daftar reseller sendiri Auto Insert to upline custom
   - api apk revisi
