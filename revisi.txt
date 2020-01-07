@@ -4,6 +4,7 @@ DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
 * JAN
   R1 - Fixed Script unicode md engine
   R2 - Add option batasi trx produk di line center/mmc tertentu
+  R3 - Fixed Contex Menu di Daftar Produk
   
 2019
 * DES
