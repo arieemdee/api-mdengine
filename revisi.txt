@@ -5,6 +5,11 @@ DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
   R1 - Fixed Script unicode md engine
   R2 - Add option batasi trx produk di line center/mmc tertentu
   R3 - Fixed Contex Menu di Daftar Produk
+  R4 - Upgrade PHP 7.3.11 Mysql new dan openSSL 1.1.1d
+  R5 - Fixed Telegram MMB
+  R6 - Fixed WA Center
+  R7 - Fixed WA MMB
+  R8 - Fixed Web SMS
   
 2019
 * DES
