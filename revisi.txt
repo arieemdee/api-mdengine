@@ -4,6 +4,7 @@ DIWAJIBKAN NET FRAMEWORK MINIMAL 4.7.2
 * FEB
   R1 - Center SMS 1 modul for all (betha)
   R2 - Up chrome Driver
+  R3 - Option Hide Modul (baru Sebagian Modul saja)
 * JAN
   - Fixed Script unicode md engine
   - Add option batasi trx produk di line center/mmc tertentu
