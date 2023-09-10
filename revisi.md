@@ -5,6 +5,18 @@ perubahan penting pada `MD Engine` didokumentasikan dalam file ini.
 
 ## MD Engine 1.0.0 [#Attachment](https://drive.google.com/drive/folders/1TRqLbq-bz-91Ue_HK8PHjntd_tG8L2io?usp=share_link)
 
+## 2023 Sept R6
+### Added
+- Penambahan Admin global Custome PPOB di MMB
+- edit harga beli saja di tabel transaksi untuk custome denom
+### Changed
+- Optimasi u/ ppob custome
+### Fixed
+- Gopay Tubrukan dgn ppob custome 
+- Optimized auto up
+- Ceklist lepas replace denom 000
+- set selisih 1 .. set hrg jual parsing di isi hrg produk
+- MMB autoup di set 1 tdk akan merubah harga jual
 
 ## 2023 Agt R4
 ### Added
