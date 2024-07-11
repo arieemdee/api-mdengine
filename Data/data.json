@@ -1,0 +1,23 @@
+{
+    "name": "Ariyanto",
+    "age": 43,
+    "email": "arie.emdee@gmail.com",
+    "address": {
+        "street": "gadingan Jombor bendosari",
+        "city": "Sukoharjo",
+        "state": "ID",
+        "zip": "57521"
+    },
+    "phoneNumbers": [
+        {
+            "type": "home",
+            "number": "0271-582916"
+        },
+        {
+            "type": "work",
+            "number": "085-6250-1188"
+        }
+    ],
+    "isActive": true,
+    "waVersion":"2.3000.1014792822-alpha"
+}
