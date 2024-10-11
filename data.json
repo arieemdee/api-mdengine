@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "AB Media",
+        "email": "enggarjay8@gmail.com",
+	"phone": "6285211044772",
+	"map":"https://goo.gl/maps/veYizhWtVxPA4r9T9",
+	"url":"https://goo.gl/maps/veYizhWtVxPA4r9T9",
+	"alamat":"Jl. Batang hari, Desa Purwasari, Kec. Pelepat Ilir, Kab. Bungo Jambi 37252"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane@example.com",
+	"phone": "6285211044772",
+	"map":"https://goo.gl/maps/veYizhWtVxPA4r9T9",
+	"url":"https://goo.gl/maps/veYizhWtVxPA4r9T9",
+	"alamat":"Jl. Batang hari, Desa Purwasari, Kec. Pelepat Ilir, Kab. Bungo Jambi 37252"
+    },
+    {
+        "id": 3,
+        "name": "parmin",
+        "email": "parmin@example.com",
+	"phone": "6285211044772",
+	"map":"https://goo.gl/maps/veYizhWtVxPA4r9T9",
+	"url":"https://goo.gl/maps/veYizhWtVxPA4r9T9",
+	"alamat":"Jl. Batang hari, Desa Purwasari, Kec. Pelepat Ilir, Kab. Bungo Jambi 37252"
+    }
+]
