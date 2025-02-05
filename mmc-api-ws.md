@@ -14,8 +14,8 @@
 # API Parse
 ### MMC
 ```
-- Create Username : -user@xml ,lintas software usernomd@xml 
-- 192.100.23.92@xml <- untuk yang lock ip blm jadi
+- Create Username : - username@xml , lintas software usernomd@xml 
+                    - 192.100.23.92@xml
 ```
 
 ### MMB
