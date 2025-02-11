@@ -2,7 +2,7 @@
 ### MMC
 ```
 - cara daftarnya 192.168.1.12ws@xml
-- URL Receiver = http://192.168.1.12/ws/report/?
+- URL Callback = http://192.168.1.12/ws/report/?
 ```
 
 ### MMB 
@@ -14,9 +14,13 @@
 # API Parse
 ### MMC
 ```
-- Create Username : - username@xml , lintas software usernomd@xml 
+- Create Username : - kdrs@xml , lintas software usernomd@xml 
                     - 192.100.23.92@xml
+- Url Callback
+  http://8.215.29.1:8888/ws/report/?pesan=
+  http://8.215.29.1:8888/ws/report/cb84.php
 ```
+
 
 ### MMB
 ```
